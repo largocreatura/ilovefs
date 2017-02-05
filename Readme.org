@@ -41,6 +41,12 @@ actividades durante la semana.
 #+ATTR_HTML: :alt I Love Free Software :title ILoveFS
 https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-banner-extralarge.pn
 
+#+BEGIN_EXPORT html
+<div class="center">
+  <a href="https://fsfe.org/campaigns/ilovefs/index.en.html">
+    <img alt="I love Free Software" src="https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-banner-extralarge.png"></a>
+</div>
+#+END_EXPORT
 El uso de Software Libre es habitual en las actividades de Medialab,
 parte sustancial del Procomún en el software, al igual que las
 licencias libres en la producción intelectual, los datos abiertos en
