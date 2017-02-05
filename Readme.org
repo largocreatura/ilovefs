@@ -36,6 +36,11 @@ con el Software Libre realizando un evento de interconexión de las
 distintas comunidades el mismo 14 de febrero, además de otra serie de
 actividades durante la semana.
 
+#+CAPTION: I Love Free Software
+#+NAME: ilovefs
+#+ATTR_HTML: :alt I Love Free Software :title ILoveFS
+https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-banner-extralarge.pn
+
 El uso de Software Libre es habitual en las actividades de Medialab,
 parte sustancial del Procomún en el software, al igual que las
 licencias libres en la producción intelectual, los datos abiertos en
@@ -52,12 +57,11 @@ personas que lo respaldan. Demostrarles/nos, de esta manera, que
 apreciamos que podamos utilizar Software Libre cuando trabajamos con
 ordenadores.
 
-* Preguntas
-
 * Agenda
 
 ** Presentación laboratorios en Máster CCCD
 <2017-02-14 mar 18:00-19:00>
+
 En la sesión del [[http://cccd.es/wp/presentacion-de-los-laboratorios-de-participacion-de-medialab-prado/][máster CCCD]], se presentarán los laboratorios de Participación Ciudadana,
 Transparencia y Gobierno Abierto: ParticipaLAB, Laboratorio de
 Innovación Ciudadana y Laboratorio de Datos, además del Laboratorio de
@@ -110,21 +114,26 @@ científicas e investigadoras]].
 ** Lunes 13
 *** Live Code Mad
 <2017-02-13 lun 18:00-20:30>
+
 Sesión de [[http://medialab-prado.es/article/live-coding-en-medialab][Live Code Mad]].
 ** Miércoles 15
 *** Meetup Gnome Hispano
 <2017-02-15 mié 18:00-20:30>
+
 Reunión del [[http://medialab-prado.es/article/gnome-hispano][grupo de Gnome Hispano]]
 ** Jueves 16
 <2017-02-16 jue 17:00-21:00>
+
 Reunión del grupo [[http://medialab-prado.es/article/avfloss][AVFLOSS]] en la Sala B.
 ** Viernes 17
 *** Repair Café sobre Software libre y Bancos de Tiempo
 <2017-02-17 vie 18:00-20:30>
+
 Taller práctico de migración del banco del tiempo de Malasaña a
 [[https://www.timeoverflow.org/pages/about][Timeoverflow]] en el marco del [[http://medialab-prado.es/article/x-encuentro-de-bancos-de-tiempo-madrilenos][X encuentro de bancos de tiempos
 madrileños]]
 
 *** Cacharreando
 <2017-02-17 vie 16:00-20:00>
+
 Reunión de [[http://medialab-prado.es/article/cacharreando-con-jovenes][Cacharreando]] en la Sala B
