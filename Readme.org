@@ -39,7 +39,7 @@ actividades durante la semana.
 #+CAPTION: I Love Free Software
 #+NAME: ilovefs
 #+ATTR_HTML: :alt I Love Free Software :title ILoveFS
-https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-banner-extralarge.pn
+https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-banner-extralarge.png
 
 #+BEGIN_EXPORT html
 <div class="center">
