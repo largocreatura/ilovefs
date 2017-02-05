@@ -58,6 +58,13 @@ Son abundantes los grupos, personas, actividades que utilizan Software
 Libre. Es algo intrínseco, consustancial, y por tanto en la mayoría de
 las veces no se señala, no se nombra, no se informa que se hace así.
 
+#+BEGIN_HTML
+<div class="center">
+<img
+src="https://fsfe.org/contribute/promopics/ilovefs-postcard-front-thumb.png/"
+alt="Postal con el texto "I love Free Software - but I love you more">
+</div>
+#+END_HTML
 La campaña iniciada por la FSFE va en esa línea de sensibilizar sobre
 el Software Libre y que se conozca el trabajo apasionado de muchas
 personas que lo respaldan. Demostrarles/nos, de esta manera, que
