@@ -1,0 +1,130 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: softwarelibre, gnu
+#+TAGS: ilovefs, libresoftware, gpl, floss
+#+DESCRIPTION: Yo ♥ el Software Libre - Día de celebración del Software Libre en Medialab-Prado
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: IloveFS 2017 Medialab-Prado
+#+DATE: <2017-01-11 mié 16:00>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="IloveFS Medialab-Prado">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+La Fundación por el Software Libre Europa (FSFE por sus siglas en
+inglés, Free Software Foundation Europe), celebra desde 2014 el 14 de
+febrero como el [[https://fsfe.org/campaigns/ilovefs/][Día Internacional de Amor por el Software Libre]] o
+/ILoveFS/. Desde Medialab-Prado queremos demostrar nuestro compromiso
+con el Software Libre realizando un evento de interconexión de las
+distintas comunidades el mismo 14 de febrero, además de otra serie de
+actividades durante la semana.
+
+El uso de Software Libre es habitual en las actividades de Medialab,
+parte sustancial del Procomún en el software, al igual que las
+licencias libres en la producción intelectual, los datos abiertos en
+la información que pretende crear conocimiento abierto o el acceso
+abierto en la producción científica.
+
+Son abundantes los grupos, personas, actividades que utilizan Software
+Libre. Es algo intrínseco, consustancial, y por tanto en la mayoría de
+las veces no se señala, no se nombra, no se informa que se hace así.
+
+La campaña iniciada por la FSFE va en esa línea de sensibilizar sobre
+el Software Libre y que se conozca el trabajo apasionado de muchas
+personas que lo respaldan. Demostrarles/nos, de esta manera, que
+apreciamos que podamos utilizar Software Libre cuando trabajamos con
+ordenadores.
+
+* Preguntas
+
+* Agenda
+
+** Presentación laboratorios en Máster CCCD
+<2017-02-14 mar 18:00-19:00>
+En la sesión del [[http://cccd.es/wp/presentacion-de-los-laboratorios-de-participacion-de-medialab-prado/][máster CCCD]], se presentarán los laboratorios de Participación Ciudadana,
+Transparencia y Gobierno Abierto: ParticipaLAB, Laboratorio de
+Innovación Ciudadana y Laboratorio de Datos, además del Laboratorio de
+Ciencia Ciudadana.
+
+** Encuentro de comunidades de Software Libre
+<2017-02-14 mar 19:00-20:30>
+
+Se trata de hacer una breve presentación del grupo, las actividades
+que realiza y lo que puede aportar a otros grupos. Máximo 10 minutos
+por grupo.
+
+Luego realizamos un debate entre todas las personas, sean de grupos o
+no, con algunas preguntas posibles:
+
+1. ¿Hasta donde ha llegado el software libre? Datos, prácticas, ética, aplicaciones, usos, gmail, twitter, redes, etc.
+2. Penetración del software libre en la administración.
+3. Software libre y género.
+4. Sistemas libre en equipos de consumo domésitico.
+5. Software Libre en Medialab, ¿debe visibilizarse más?
+6. Otras
+
+*** Grupos invitados:
+
+- [[https://www.meetup.com/es-ES/rladies-madrid/][R-Ladies]]
+- [[http://medialab-prado.es/article/grupo-de-usuarios-de-r][Grupo R]]
+- [[http://medialab-prado.es/article/gnome-hispano][Grupo Gnome Hispano]]
+- [[http://medialab-prado.es/article/avfloss][Grupo AVFLOSS]]
+- [[http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabajo][Grupo Periodismo de datos]]
+- [[http://medialab-prado.es/article/clothes-r-us-grupo-de-trabajo-de-reciclaje-textil2][Clothes 'R Us]], Textil en Abierto, presentación de [[http://medialab-prado.es/article/presentacion-manual-en-castellano-del-programa-de-patronaje-digital-valentina][Valentina]] por
+  [[http://www.altrapolab.org/][Altrapolab]]
+- [[http://medialab-prado.es/article/geoinquietos][Grupo Geoinquietos]]
+- [[http://medialab-prado.es/article/wikiesfera-wikimujeres][Wikiesfera/Wikimujeres]]
+- [[http://medialab-prado.es/article/live-coding-en-medialab][Live Code Mad]]
+- [[http://medialab-prado.es/article/cacharreando-con-jovenes][Cacharreando]]
+
+Si quieres participar en la presentación, pon una issue o envíanos un
+correo electrónico a [[mailto:visualizar@medialab-prado.es][visualizar @ medialab-prado.es]]
+
+* Otras actividades de la semana
+
+Como hemos dicho, el Software Libre en Medialab no se reduce solo a un
+día, aunque este día sea especial. Os señalamos algunas actividades
+que, durante la semana, se relacionan con esta temática.
+** Sábado 11
+*** Editatona sobre científicas en la Wikipedia
+Con motivo del [[https://11defebrero.org/][Día internacional de las mujeres y las niñas en la
+Ciencia]], realizaremos una [[http://medialab-prado.es/article/editatona-sobre-cientificas-en-wikipedia-11f][jornada de edición de la Wikipedia con
+científicas e investigadoras]].
+** Lunes 13
+*** Live Code Mad
+<2017-02-13 lun 18:00-20:30>
+Sesión de [[http://medialab-prado.es/article/live-coding-en-medialab][Live Code Mad]].
+** Miércoles 15
+*** Meetup Gnome Hispano
+<2017-02-15 mié 18:00-20:30>
+Reunión del [[http://medialab-prado.es/article/gnome-hispano][grupo de Gnome Hispano]]
+** Jueves 16
+<2017-02-16 jue 17:00-21:00>
+Reunión del grupo [[http://medialab-prado.es/article/avfloss][AVFLOSS]] en la Sala B.
+** Viernes 17
+*** Repair Café sobre Software libre y Bancos de Tiempo
+<2017-02-17 vie 18:00-20:30>
+Taller práctico de migración del banco del tiempo de Malasaña a
+[[https://www.timeoverflow.org/pages/about][Timeoverflow]] en el marco del [[http://medialab-prado.es/article/x-encuentro-de-bancos-de-tiempo-madrilenos][X encuentro de bancos de tiempos
+madrileños]]
+
+*** Cacharreando
+<2017-02-17 vie 16:00-20:00>
+Reunión de [[http://medialab-prado.es/article/cacharreando-con-jovenes][Cacharreando]] en la Sala B
